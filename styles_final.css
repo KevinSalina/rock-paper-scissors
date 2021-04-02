@@ -1,0 +1,21 @@
+*,
+*::before
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --main-bg-color: #4f646f;
+    --main-txt-color: #ddebf8;
+    --accent-color: #00c49a;
+    --main-red-color: #FF6B6B;
+    --main-yellow-color: #F8E16C;
+}
+
+html{
+    font-size: 16px;
+    background: var(--main-bg-color);
+    color: var(--main-txt-color);
+}
