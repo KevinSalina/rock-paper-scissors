@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rock Paper Scissors game
 
 Project to create **Rock Paper Scissors** game using only HTML, CSS and JS.
@@ -53,3 +54,9 @@ From The Odin Project's [curriculum](https://www.theodinproject.com/courses/foun
 
 👤 **KevinSalina**
 * GitHub: [KevinSalina](https://github.com/KevinSalina)
+=======
+A project to create a Rock, Paper, Scissors game using HTML, CSS, and JavaScript.
+Project will follow basic Git workflow
+
+[Live Demo](https://kevinsalina.github.io/rock-paper-scissors/)
+>>>>>>> 0787cc8a84ac47b9fc8493f3c77dbccb72b23ea6
